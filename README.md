@@ -79,4 +79,6 @@
 ## 📬 Contact
 
 For any questions, feel free to reach out.
+**Email**: akashkumarrajak200@gmail.com
+
 
