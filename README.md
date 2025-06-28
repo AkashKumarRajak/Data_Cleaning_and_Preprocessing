@@ -1,5 +1,4 @@
-# Elevate-Labs-Task_1
-# 🧹 Task 1: Data Cleaning and Preprocessing
+# Data Cleaning and Preprocessing
 
 **Internship**: Data Analyst Intern  
 **Company**: Elevate Labs  
